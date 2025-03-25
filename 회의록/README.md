@@ -1,5 +1,11 @@
 # 프로젝트 ActiveWork 개요 
 *2025. 03. 24*
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/f838c62e-42ab-4bc8-8808-577d042b8755" />
+
+업무 시 온/오프라인 전환에 구애받지 않고 흐름 끊김 없이 협업( 팀 프로젝트)을 진행할 수 있도록 돕는 협업 툴 보완용 프로그램
+
+
+<img width="486" alt="image" src="https://github.com/user-attachments/assets/94b424ea-7b7a-4c4c-9e1e-321e6e9babc2" />
 
 ### 2월
 ```
